@@ -12,3 +12,5 @@ Rev 1.1 - Fixes the R2 and R3 issue that Rev 1 had. Also adds connections for an
 
 Rev 1.2 - Adds some pads on the underside of the SOIC footprints, that are suitable for decoupling capacitors, and for optional output feedback components if the soldered SOIC component is an op-amp. Also, the corners of the board have been rounded very slightly (0.5 mm radius). Previously, the corners had no radius.
 
+Rev 1.3 - Added some pads to make it slightly easier to plug on a daughter board made from (say) stripboard.
+

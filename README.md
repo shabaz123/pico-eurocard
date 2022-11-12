@@ -14,3 +14,6 @@ Rev 1.2 - Adds some pads on the underside of the SOIC footprints, that are suita
 
 Rev 1.3 - Added some pads to make it slightly easier to plug on a daughter board made from (say) stripboard.
 
+Rev 2.0 - Removed SPI TFT pins, since there was some incompatibility with recently available displays. Added micro SD card socket.
+
+Rev 2.2 - Very similar to 2.0 version, but with far more legible silkscreen. Also added a resistor for more gate protection with partially assembled boards.

@@ -16,4 +16,4 @@ Rev 1.3 - Added some pads to make it slightly easier to plug on a daughter board
 
 Rev 2.0 - Removed SPI TFT pins, since there was some incompatibility with recently available displays. Added micro SD card socket.
 
-Rev 2.2 - Very similar to 2.0 version, but with far more legible silkscreen. Also added a resistor for more gate protection with partially assembled boards.
+Rev 2.2 - Very similar to 2.0 version, but with far more legible silkscreen, and with all surface-mount components (including the micro SD socket) on one side of the board, for easier production. Also added a resistor for more gate protection with partially assembled boards.

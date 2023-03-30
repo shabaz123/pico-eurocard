@@ -8,7 +8,7 @@ Latest [Schematic](https://github.com/shabaz123/pico-eurocard/blob/main/pico-eur
 
 <img width="100%" align="left" src="doc\pico-euro-2-2-render-top-angle.jpg">
 
-License: Free for all non-commercial use.
+License: The pico-eurocard project is distributed under the CC BY-NC-SA 4.0 license. Please share any changes you make, so that others can contribute and benefit from them.
 
 Board Revision History
 

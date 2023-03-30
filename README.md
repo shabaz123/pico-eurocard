@@ -2,7 +2,9 @@
 
 This repository contains PCB Gerber files and bill of materials for a [Pi Pico Eurocard Development Board](https://community.element14.com/products/raspberry-pi/b/blog/posts/pi-pico-eurocard-development-board). See James' [Workshop Wednesday's Video](https://community.element14.com/challenges-projects/element14-presents/workbenchwednesdays/w/documents/28083/workbench-wednesdays-70-why-you-need-a-raspberry-pi-pico-development-board-by-shabaz) which demonstrates the revision 2.0 board.
 
-The current revision 2.2 board has a few slight impromements to make it easier to solder, and has enlarged text silkscreen:
+The current revision 2.2 board has a few slight impromements to make it easier to solder, and has enlarged text silkscreen as can be seen in the image below.
+
+Latest [Schematic](https://github.com/shabaz123/pico-eurocard/blob/main/pico-euro-kicad-source/pico-euro-schematic.pdf) and [Bill of Materials](https://github.com/shabaz123/pico-eurocard/blob/main/pico-euro-kicad-source/pico-euro-rev-2-2-bill-of-materials.pdf) and [Zip file of Gerbers](https://github.com/shabaz123/pico-eurocard/blob/main/export_pico_euro_rev_2_2.zip), (click on the Download button on the right) ready for sending to any PCB factory.
 
 <img width="100%" align="left" src="doc\pico-euro-2-2-render-top-angle.jpg">
 

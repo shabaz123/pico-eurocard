@@ -1,0 +1,1920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\c_root\electronics\KICAD_FILES\pico-euro\pico-euro.kicad_sch</source>
+    <date>14/04/2022 00:25:40</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pico-euro.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22u</value>
+      <footprint>User_Global_Library:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f16cd22c-faf5-4570-a34d-f0c5b0ab3166</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1469f7ec-e62a-4741-bf89-f5b158f8b252</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>2.2u</value>
+      <footprint>User_Global_Library:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7feccd6-db21-4527-94d5-9b006db0d1ee</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="LED" description="Light emitting diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1695b83a-bb9c-490f-9745-388f147ea717</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="LED" description="Light emitting diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ec93c2c-6e7a-402f-a7c6-2694466e9717</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65151dbe-1956-453c-8268-1c1ab3cdeec5</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d48330a-e58e-40e2-aec6-18ace61ed899</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4a97174-a79d-41ee-8dc8-ab8ac8d5f3ae</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cecd9c8b-7f12-4956-ac26-98f3bb991913</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89b20546-f38b-4b84-89f4-9bdf00d45f71</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>matrix-holes</value>
+      <footprint>User_Global_Library:matrix-33-4</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a4d3d8f-25ae-4388-b1f2-0285af0d75ee</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ece6d9b2-587f-40c3-afb2-73bee7fe7561</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b282f2e-9134-4629-a244-2d7ff34e60e6</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2b59468-8cdf-49be-be1b-7255208f2bec</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3072656b-577b-4b43-9907-1255099b9975</tstamps>
+    </comp>
+    <comp ref="H11">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62f90603-62e7-4c29-837c-57b7be7b7721</tstamps>
+    </comp>
+    <comp ref="H12">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3351b01-e8e2-4e48-ac30-fd4f2b33247b</tstamps>
+    </comp>
+    <comp ref="H13">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab024fc1-f34c-41b3-8a5e-35d288265c02</tstamps>
+    </comp>
+    <comp ref="H14">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e63a4eaf-df64-42c5-8f5e-c8ea4c66d719</tstamps>
+    </comp>
+    <comp ref="H15">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73c9c4f-002b-4cbd-b427-8685611213f5</tstamps>
+    </comp>
+    <comp ref="H16">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a00b7aeb-2c8a-4e9d-8380-680c549b756e</tstamps>
+    </comp>
+    <comp ref="H17">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d92c442c-5474-4ae6-afaa-91255eb71289</tstamps>
+    </comp>
+    <comp ref="H18">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1fe6034-e8f5-4dd9-9660-b1cf3d3d6589</tstamps>
+    </comp>
+    <comp ref="H19">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026e7b99-7a49-4b52-ae97-2832aa2100e2</tstamps>
+    </comp>
+    <comp ref="H20">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2124b24a-fe46-4035-984e-751fef175711</tstamps>
+    </comp>
+    <comp ref="H21">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3599fdc-fa7a-4fa9-ae64-07850e64f222</tstamps>
+    </comp>
+    <comp ref="H22">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a2bd22-b492-477a-b23e-6637fd31cd61</tstamps>
+    </comp>
+    <comp ref="H23">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a9ccc29-9af8-4fbe-abe1-b45a070f77a6</tstamps>
+    </comp>
+    <comp ref="H24">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33e34f26-6845-4521-b372-347700ff124f</tstamps>
+    </comp>
+    <comp ref="H25">
+      <value>matrix-8x1</value>
+      <footprint>User_Global_Library:matrix-8x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>929be957-b084-44ed-afe4-050a6a39e867</tstamps>
+    </comp>
+    <comp ref="H26">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fc36853-a5ed-4f15-84d8-a1889b58e264</tstamps>
+    </comp>
+    <comp ref="H27">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bb744e8-86c0-4150-8eec-2b91d1fea28d</tstamps>
+    </comp>
+    <comp ref="H28">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>815afe73-24c4-48f9-b273-ee33f185a387</tstamps>
+    </comp>
+    <comp ref="H29">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>732fca14-4c00-4669-a0be-2efa79cdd839</tstamps>
+    </comp>
+    <comp ref="H30">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8845977f-f221-4491-b05e-e22dddbe081b</tstamps>
+    </comp>
+    <comp ref="H31">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa58c8e5-06ea-4e77-bea0-96f31ffed1cc</tstamps>
+    </comp>
+    <comp ref="H32">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69de8b3f-19dd-4de0-9086-49ee2eb3fbd8</tstamps>
+    </comp>
+    <comp ref="H33">
+      <value>matrix-4x1</value>
+      <footprint>User_Global_Library:matrix-4x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7f4ad65-8eb4-4351-9d02-84e243dbf126</tstamps>
+    </comp>
+    <comp ref="H34">
+      <value>matrix-2x1</value>
+      <footprint>User_Global_Library:matrix-2x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6105a6-98e3-4d4b-8247-721f000ae74f</tstamps>
+    </comp>
+    <comp ref="H35">
+      <value>matrix-1x1</value>
+      <footprint>User_Global_Library:matrix-1x1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="matrix-holes" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c521050-210b-4566-8df7-0c21d5047d29</tstamps>
+    </comp>
+    <comp ref="H100">
+      <value>Hole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77ed07e4-03f1-4d68-ab45-77299946a135</tstamps>
+    </comp>
+    <comp ref="H101">
+      <value>Hole</value>
+      <footprint>MountingHole:MountingHole_2.7mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb8e4e8c-2f30-4914-b82c-446f8248c3bd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>conn-euro</value>
+      <footprint>User_Global_Library:Eurocard-Plug-Type-C</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="conn-euro" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c50ceb8d-20c1-47df-af8b-69b46e9835bb f34ebcf3-aa4a-461c-89e9-e61564c18702 8b6f76e2-930d-4d66-bfe0-9f18ad1b58a9</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>pin-header-pico-side1</value>
+      <footprint>User_Global_Library:pin-header-pico-side1</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="pin-header-pico-side1" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45f8efab-dbbb-4f0a-9af8-29fdf03aae9e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>pin-header-pico-sideb</value>
+      <footprint>User_Global_Library:pin-header-pico-side2</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="pin-header-pico-sideb" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93be083b-451b-47bf-939d-c51e64826aaf</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>LED_CONNECT</value>
+      <footprint>User_Global_Library:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18be3932-3829-4802-8a70-f9ce7684ddd2</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>BUTTON_CONNECT</value>
+      <footprint>User_Global_Library:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9e09cd6-b4d8-4ab1-8344-0538675436bf</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>DEBUG</value>
+      <footprint>User_Global_Library:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9a43828-b419-47ff-b228-ea366faac65a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>DC-Socket</value>
+      <footprint>User_Global_Library:DC-Jack-10</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="DC-Socket" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4abeeb18-2af6-43d6-b744-dc4dd0ad18bb</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>5V_CONNECT</value>
+      <footprint>User_Global_Library:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f187525e-2b6a-45aa-a98c-830104ff9499</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>12V</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62c031e0-8ff1-41d6-91b1-2186482f5ae3</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads2-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c55e9d18-1812-474e-8f56-0cb3681f7fb9</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads2-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e5b8554-e07e-49e6-affa-4edd8c4c4939</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d9252e3-894e-4a18-ba4b-e323f5dd12e1</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>1.25mm</value>
+      <footprint>User_Global_Library:array-1.25</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ffa355d-70fa-4861-b1e7-1e1161661fea</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>2mm</value>
+      <footprint>User_Global_Library:array-2mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b50c513d-800b-4ba6-96a8-713eaef3576e</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>3.81mm</value>
+      <footprint>User_Global_Library:array-3.81</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23e669d7-7315-405b-9c4c-dc30a3b218aa</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>BUSBAR-5</value>
+      <footprint>User_Global_Library:busbar-30div2</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>589daaf6-a3cb-4c82-a9a4-9d621a4933bb</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>BUSBAR-3.3</value>
+      <footprint>User_Global_Library:busbar-30</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf1e8ab6-03b7-4c3c-aadb-8137a930234a</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>BUSBAR-12</value>
+      <footprint>User_Global_Library:busbar-30div4</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>529d3560-c6fc-4031-bd1b-02367ad86989</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>BUSBAR-GND</value>
+      <footprint>User_Global_Library:busbar-30</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa86fdb3-fe25-4264-9abf-b3dc58ac8caa</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>3V3_CONNECT</value>
+      <footprint>User_Global_Library:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43c04efe-7d1e-4b61-9212-087021fe7f33</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>Conn_01x03</value>
+      <footprint>User_Global_Library:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f60c7872-4715-4f62-a561-9f14afc7b62f</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>Conn_01x03</value>
+      <footprint>User_Global_Library:pads3-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dab0a096-c113-438a-8b05-ada017c294a3</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>Conn_01x05</value>
+      <footprint>User_Global_Library:pads5-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d556aa67-0a5e-4efd-96f1-17d956f560af</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dbef024-7f43-4950-b62d-0a8598ff4f4f</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b920e2-b3fd-4ba7-a042-e2a238d97bab</tstamps>
+    </comp>
+    <comp ref="J26">
+      <value>soic-16</value>
+      <footprint>User_Global_Library:SOIC-16-proto</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Counter_Clockwise" description="Generic connector, double row, 02x08, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd54737c-9f7b-44c0-940b-04ea4c62ba78</tstamps>
+    </comp>
+    <comp ref="J27">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12bff15d-4691-4478-96e8-a2ae5aa43694</tstamps>
+    </comp>
+    <comp ref="J28">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ffcd1ac-d559-4a32-a5a0-114ad6f83d2c</tstamps>
+    </comp>
+    <comp ref="J29">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90b3f1d1-8667-4524-9263-02923128af3e</tstamps>
+    </comp>
+    <comp ref="J30">
+      <value>soic-8</value>
+      <footprint>User_Global_Library:SOIC-8-proto</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise" description="Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65778b97-4bd1-4830-a540-c2ec5320ce4e</tstamps>
+    </comp>
+    <comp ref="J31">
+      <value>PADS</value>
+      <footprint>User_Global_Library:pads4-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d532bb5-150e-451b-823b-48e360f864e1</tstamps>
+    </comp>
+    <comp ref="J32">
+      <value>Conn_01x03</value>
+      <footprint>User_Global_Library:pads3-euro</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a1ab444-17f8-47b7-9bd9-30d9b350be61</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Si2301/FDV304P/IRLML2246</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>http://assets.nexperia.com/documents/data-sheet/BSS84.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="BSS84" description="-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f0e51fa-ebcf-4aeb-b68f-17f6c64081b2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fd42418-8ab6-4cdc-b2b3-e8f04825fc8a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08635320-4452-4bb5-888d-77d50e53d154</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6f1718a-4f0a-4a4e-af98-55171689719b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>410f5e88-84ed-4461-abfc-7f15f846511b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82ba42fc-1ae3-4624-95ec-7576b719e0a6</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb10f4c9-5a64-431f-9822-53f20c7f7312</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="PUSH-SWITCH" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd7a40ea-89b6-45ca-ad04-eb1d8fe8f4eb</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>BUTTON</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="PUSH-SWITCH" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>172d4ffc-42e7-4178-8ba0-76e8bc5532e6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Pico-logical</value>
+      <footprint>User_Global_Library:pi-pico-euro</footprint>
+      <libsource lib="User_Global_Symbol_Library" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>405917f0-052b-4684-b545-dc8cae271687</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L7805</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pico-euro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5197ff6-6224-41bb-8036-995048d5ef05</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise">
+      <description>Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x04_Counter_Clockwise</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Counter_Clockwise">
+      <description>Generic connector, double row, 02x08, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Counter_Clockwise</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS84">
+      <description>-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://assets.nexperia.com/documents/data-sheet/BSS84.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS84</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://assets.nexperia.com/documents/data-sheet/BSS84.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="DC-Socket">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DC-Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="power_out"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="LED">
+      <description>Light emitting diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="PUSH-SWITCH">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">PUSH-SWITCH</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="Pico">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="conn-euro">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">conn-euro</field>
+        <field name="Footprint">User_Global_Library:Eurocard-Plug-Type-C</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A2" name="A2" type="passive"/>
+        <pin num="A3" name="A3" type="passive"/>
+        <pin num="A4" name="A4" type="passive"/>
+        <pin num="A5" name="A5" type="passive"/>
+        <pin num="A6" name="A6" type="passive"/>
+        <pin num="A7" name="A7" type="passive"/>
+        <pin num="A8" name="A8" type="passive"/>
+        <pin num="A9" name="A9" type="passive"/>
+        <pin num="A10" name="A10" type="passive"/>
+        <pin num="A11" name="A11" type="passive"/>
+        <pin num="A12" name="A12" type="passive"/>
+        <pin num="A13" name="A13" type="passive"/>
+        <pin num="A14" name="A14" type="passive"/>
+        <pin num="A15" name="A15" type="passive"/>
+        <pin num="A16" name="A16" type="passive"/>
+        <pin num="A17" name="A17" type="passive"/>
+        <pin num="A18" name="A18" type="passive"/>
+        <pin num="A19" name="A19" type="passive"/>
+        <pin num="A20" name="A20" type="passive"/>
+        <pin num="A21" name="A21" type="passive"/>
+        <pin num="A22" name="A22" type="passive"/>
+        <pin num="A23" name="A23" type="passive"/>
+        <pin num="A24" name="A24" type="passive"/>
+        <pin num="A25" name="A25" type="passive"/>
+        <pin num="A26" name="A26" type="passive"/>
+        <pin num="A27" name="A27" type="passive"/>
+        <pin num="A28" name="A28" type="passive"/>
+        <pin num="A29" name="A29" type="passive"/>
+        <pin num="A30" name="A30" type="passive"/>
+        <pin num="A31" name="A31" type="passive"/>
+        <pin num="A32" name="A32" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B2" name="B2" type="passive"/>
+        <pin num="B3" name="B3" type="passive"/>
+        <pin num="B4" name="B4" type="passive"/>
+        <pin num="B5" name="B5" type="passive"/>
+        <pin num="B6" name="B6" type="passive"/>
+        <pin num="B7" name="B7" type="passive"/>
+        <pin num="B8" name="B8" type="passive"/>
+        <pin num="B9" name="B9" type="passive"/>
+        <pin num="B10" name="B10" type="passive"/>
+        <pin num="B11" name="B11" type="passive"/>
+        <pin num="B12" name="B12" type="passive"/>
+        <pin num="B13" name="B13" type="passive"/>
+        <pin num="B14" name="B14" type="passive"/>
+        <pin num="B15" name="B15" type="passive"/>
+        <pin num="B16" name="B16" type="passive"/>
+        <pin num="B17" name="B17" type="passive"/>
+        <pin num="B18" name="B18" type="passive"/>
+        <pin num="B19" name="B19" type="passive"/>
+        <pin num="B20" name="B20" type="passive"/>
+        <pin num="B21" name="B21" type="passive"/>
+        <pin num="B22" name="B22" type="passive"/>
+        <pin num="B23" name="B23" type="passive"/>
+        <pin num="B24" name="B24" type="passive"/>
+        <pin num="B25" name="B25" type="passive"/>
+        <pin num="B26" name="B26" type="passive"/>
+        <pin num="B27" name="B27" type="passive"/>
+        <pin num="B28" name="B28" type="passive"/>
+        <pin num="B29" name="B29" type="passive"/>
+        <pin num="B30" name="B30" type="passive"/>
+        <pin num="B31" name="B31" type="passive"/>
+        <pin num="B32" name="B32" type="passive"/>
+        <pin num="C1" name="C1" type="passive"/>
+        <pin num="C2" name="C2" type="passive"/>
+        <pin num="C3" name="C3" type="passive"/>
+        <pin num="C4" name="C4" type="passive"/>
+        <pin num="C5" name="C5" type="passive"/>
+        <pin num="C6" name="C6" type="passive"/>
+        <pin num="C7" name="C7" type="passive"/>
+        <pin num="C8" name="C8" type="passive"/>
+        <pin num="C9" name="C9" type="passive"/>
+        <pin num="C10" name="C10" type="passive"/>
+        <pin num="C11" name="C11" type="passive"/>
+        <pin num="C12" name="C12" type="passive"/>
+        <pin num="C13" name="C13" type="passive"/>
+        <pin num="C14" name="C14" type="passive"/>
+        <pin num="C15" name="C15" type="passive"/>
+        <pin num="C16" name="C16" type="passive"/>
+        <pin num="C17" name="C17" type="passive"/>
+        <pin num="C18" name="C18" type="passive"/>
+        <pin num="C19" name="C19" type="passive"/>
+        <pin num="C20" name="C20" type="passive"/>
+        <pin num="C21" name="C21" type="passive"/>
+        <pin num="C22" name="C22" type="passive"/>
+        <pin num="C23" name="C23" type="passive"/>
+        <pin num="C24" name="C24" type="passive"/>
+        <pin num="C25" name="C25" type="passive"/>
+        <pin num="C26" name="C26" type="passive"/>
+        <pin num="C27" name="C27" type="passive"/>
+        <pin num="C28" name="C28" type="passive"/>
+        <pin num="C29" name="C29" type="passive"/>
+        <pin num="C30" name="C30" type="passive"/>
+        <pin num="C31" name="C31" type="passive"/>
+        <pin num="C32" name="C32" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="matrix-holes">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">matrix-holes</field>
+      </fields>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="pin-header-pico-side1">
+      <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">pin-header-pico-side1</field>
+        <field name="Footprint">User_Global_Library:pin-header-pico-side1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Global_Symbol_Library" part="pin-header-pico-sideb">
+      <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">pin-header-pico-sideb</field>
+        <field name="Footprint">User_Global_Library:pin-header-pico-side2</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="User_Global_Symbol_Library">
+      <uri>C:/Users/shabaz/Documents/KiCad/6.0/symbols/User_Global_Symbol_Library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="+5P">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="B31" pinfunction="B31" pintype="passive"/>
+      <node ref="J1" pin="C31" pinfunction="C31" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="+5VP">
+      <node ref="J21" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="4" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="B32" pinfunction="B32" pintype="passive"/>
+      <node ref="J1" pin="C32" pinfunction="C32" pintype="passive"/>
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="power_out"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="5" name="/IO0">
+      <node ref="J1" pin="C1" pinfunction="C1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/IO1">
+      <node ref="J1" pin="C2" pinfunction="C2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/IO2">
+      <node ref="J1" pin="C3" pinfunction="C3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/IO3">
+      <node ref="J1" pin="C4" pinfunction="C4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/IO6">
+      <node ref="J1" pin="C7" pinfunction="C7" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/IO7">
+      <node ref="J1" pin="C8" pinfunction="C8" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/IO8">
+      <node ref="J1" pin="C9" pinfunction="C9" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/IO9">
+      <node ref="J1" pin="C10" pinfunction="C10" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/IO10">
+      <node ref="J1" pin="C11" pinfunction="C11" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/IO11">
+      <node ref="J1" pin="C12" pinfunction="C12" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/IO12">
+      <node ref="J1" pin="C13" pinfunction="C13" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/IO13">
+      <node ref="J1" pin="C14" pinfunction="C14" pintype="passive"/>
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/IO14">
+      <node ref="J1" pin="C15" pinfunction="C15" pintype="passive"/>
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J32" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/IO15">
+      <node ref="J1" pin="C16" pinfunction="C16" pintype="passive"/>
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J32" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/IO16">
+      <node ref="J1" pin="B17" pinfunction="B17" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/IO17">
+      <node ref="J1" pin="B16" pinfunction="B16" pintype="passive"/>
+      <node ref="J23" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/IO18">
+      <node ref="J1" pin="B14" pinfunction="B14" pintype="passive"/>
+      <node ref="J23" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/IO19">
+      <node ref="J1" pin="B13" pinfunction="B13" pintype="passive"/>
+      <node ref="J23" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/IO20">
+      <node ref="J1" pin="B12" pinfunction="B12" pintype="passive"/>
+      <node ref="J3" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/IO21">
+      <node ref="J1" pin="B11" pinfunction="B11" pintype="passive"/>
+      <node ref="J3" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/IO22">
+      <node ref="J1" pin="B9" pinfunction="B9" pintype="passive"/>
+      <node ref="J3" pin="29" pinfunction="Pin_29" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/IO26">
+      <node ref="J1" pin="B7" pinfunction="B7" pintype="passive"/>
+      <node ref="J3" pin="31" pinfunction="Pin_31" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/IO27">
+      <node ref="J1" pin="B6" pinfunction="B6" pintype="passive"/>
+      <node ref="J3" pin="32" pinfunction="Pin_32" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/IO28">
+      <node ref="J1" pin="B4" pinfunction="B4" pintype="passive"/>
+      <node ref="J3" pin="34" pinfunction="Pin_34" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/RUN">
+      <node ref="J1" pin="B8" pinfunction="B8" pintype="passive"/>
+      <node ref="J3" pin="30" pinfunction="Pin_30" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="30" name="/SCL0">
+      <node ref="J1" pin="C6" pinfunction="C6" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/SDA0">
+      <node ref="J1" pin="C5" pinfunction="C5" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J22" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/SWCLK">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="33" name="/SWDIO">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="3V3">
+      <node ref="J1" pin="B2" pinfunction="B2" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="36" pinfunction="Pin_36" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="35" name="AREF">
+      <node ref="J1" pin="B3" pinfunction="B3" pintype="passive"/>
+      <node ref="J3" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in"/>
+    </net>
+    <net code="36" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="C22" pinfunction="C22" pintype="passive"/>
+      <node ref="J1" pin="C23" pinfunction="C23" pintype="passive"/>
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J3" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="J3" pin="33" pinfunction="Pin_33" pintype="passive"/>
+      <node ref="J3" pin="38" pinfunction="Pin_38" pintype="passive"/>
+      <node ref="J32" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="3" pintype="power_out"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(J3-Pad37)">
+      <node ref="J3" pin="37" pinfunction="Pin_37" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J10-Pad2)">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J12-Pad2)">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J12-Pad3)">
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J12-Pad4)">
+      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J16-Pad1)">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J24-Pad1)">
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J24-Pad2)">
+      <node ref="J24" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J24-Pad3)">
+      <node ref="J24" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J26" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J24-Pad4)">
+      <node ref="J24" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J26" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J25-Pad1)">
+      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J26" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(J25-Pad2)">
+      <node ref="J25" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(J25-Pad3)">
+      <node ref="J25" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J26" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(J25-Pad4)">
+      <node ref="J25" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J26" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(J26-Pad9)">
+      <node ref="J26" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(J26-Pad10)">
+      <node ref="J26" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J28" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(J26-Pad11)">
+      <node ref="J26" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J28" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(J26-Pad12)">
+      <node ref="J26" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J28" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(J26-Pad13)">
+      <node ref="J26" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(J26-Pad14)">
+      <node ref="J26" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J27" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J26-Pad15)">
+      <node ref="J26" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J27" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(J26-Pad16)">
+      <node ref="J26" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J27" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(J29-Pad1)">
+      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J29-Pad2)">
+      <node ref="J29" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J30" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J29-Pad3)">
+      <node ref="J29" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J30" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J29-Pad4)">
+      <node ref="J29" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J30" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J30-Pad5)">
+      <node ref="J30" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J31" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J30-Pad6)">
+      <node ref="J30" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J31" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J30-Pad7)">
+      <node ref="J30" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J31" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J30-Pad8)">
+      <node ref="J30" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J31" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="VBUS">
+      <node ref="J3" pin="40" pinfunction="Pin_40" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="77" name="VSYS">
+      <node ref="J1" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="39" pinfunction="Pin_39" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="78" name="unconnected-(J1-PadA1)">
+      <node ref="J1" pin="A1" pinfunction="A1" pintype="passive"/>
+    </net>
+    <net code="79" name="unconnected-(J1-PadA2)">
+      <node ref="J1" pin="A2" pinfunction="A2" pintype="passive"/>
+    </net>
+    <net code="80" name="unconnected-(J1-PadA3)">
+      <node ref="J1" pin="A3" pinfunction="A3" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(J1-PadA4)">
+      <node ref="J1" pin="A4" pinfunction="A4" pintype="passive"/>
+    </net>
+    <net code="82" name="unconnected-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="A5" pintype="passive"/>
+    </net>
+    <net code="83" name="unconnected-(J1-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="A6" pintype="passive"/>
+    </net>
+    <net code="84" name="unconnected-(J1-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="A7" pintype="passive"/>
+    </net>
+    <net code="85" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="A8" pintype="passive"/>
+    </net>
+    <net code="86" name="unconnected-(J1-PadA9)">
+      <node ref="J1" pin="A9" pinfunction="A9" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(J1-PadA10)">
+      <node ref="J1" pin="A10" pinfunction="A10" pintype="passive"/>
+    </net>
+    <net code="88" name="unconnected-(J1-PadA11)">
+      <node ref="J1" pin="A11" pinfunction="A11" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(J1-PadA12)">
+      <node ref="J1" pin="A12" pinfunction="A12" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(J1-PadA13)">
+      <node ref="J1" pin="A13" pinfunction="A13" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(J1-PadA14)">
+      <node ref="J1" pin="A14" pinfunction="A14" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J1-PadA15)">
+      <node ref="J1" pin="A15" pinfunction="A15" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(J1-PadA16)">
+      <node ref="J1" pin="A16" pinfunction="A16" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(J1-PadA17)">
+      <node ref="J1" pin="A17" pinfunction="A17" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(J1-PadA18)">
+      <node ref="J1" pin="A18" pinfunction="A18" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(J1-PadA19)">
+      <node ref="J1" pin="A19" pinfunction="A19" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(J1-PadA20)">
+      <node ref="J1" pin="A20" pinfunction="A20" pintype="passive"/>
+    </net>
+    <net code="98" name="unconnected-(J1-PadA21)">
+      <node ref="J1" pin="A21" pinfunction="A21" pintype="passive"/>
+    </net>
+    <net code="99" name="unconnected-(J1-PadA22)">
+      <node ref="J1" pin="A22" pinfunction="A22" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(J1-PadA23)">
+      <node ref="J1" pin="A23" pinfunction="A23" pintype="passive"/>
+    </net>
+    <net code="101" name="unconnected-(J1-PadA24)">
+      <node ref="J1" pin="A24" pinfunction="A24" pintype="passive"/>
+    </net>
+    <net code="102" name="unconnected-(J1-PadA25)">
+      <node ref="J1" pin="A25" pinfunction="A25" pintype="passive"/>
+    </net>
+    <net code="103" name="unconnected-(J1-PadA26)">
+      <node ref="J1" pin="A26" pinfunction="A26" pintype="passive"/>
+    </net>
+    <net code="104" name="unconnected-(J1-PadA27)">
+      <node ref="J1" pin="A27" pinfunction="A27" pintype="passive"/>
+    </net>
+    <net code="105" name="unconnected-(J1-PadA28)">
+      <node ref="J1" pin="A28" pinfunction="A28" pintype="passive"/>
+    </net>
+    <net code="106" name="unconnected-(J1-PadA29)">
+      <node ref="J1" pin="A29" pinfunction="A29" pintype="passive"/>
+    </net>
+    <net code="107" name="unconnected-(J1-PadA30)">
+      <node ref="J1" pin="A30" pinfunction="A30" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(J1-PadA31)">
+      <node ref="J1" pin="A31" pinfunction="A31" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(J1-PadA32)">
+      <node ref="J1" pin="A32" pinfunction="A32" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="B5" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(J1-PadB10)">
+      <node ref="J1" pin="B10" pinfunction="B10" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(J1-PadB15)">
+      <node ref="J1" pin="B15" pinfunction="B15" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(J1-PadB18)">
+      <node ref="J1" pin="B18" pinfunction="B18" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(J1-PadB19)">
+      <node ref="J1" pin="B19" pinfunction="B19" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(J1-PadB20)">
+      <node ref="J1" pin="B20" pinfunction="B20" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(J1-PadB21)">
+      <node ref="J1" pin="B21" pinfunction="B21" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(J1-PadB22)">
+      <node ref="J1" pin="B22" pinfunction="B22" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(J1-PadB23)">
+      <node ref="J1" pin="B23" pinfunction="B23" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(J1-PadB24)">
+      <node ref="J1" pin="B24" pinfunction="B24" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(J1-PadB25)">
+      <node ref="J1" pin="B25" pinfunction="B25" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(J1-PadB26)">
+      <node ref="J1" pin="B26" pinfunction="B26" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(J1-PadB27)">
+      <node ref="J1" pin="B27" pinfunction="B27" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(J1-PadB28)">
+      <node ref="J1" pin="B28" pinfunction="B28" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(J1-PadB29)">
+      <node ref="J1" pin="B29" pinfunction="B29" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(J1-PadB30)">
+      <node ref="J1" pin="B30" pinfunction="B30" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(J1-PadC17)">
+      <node ref="J1" pin="C17" pinfunction="C17" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(J1-PadC18)">
+      <node ref="J1" pin="C18" pinfunction="C18" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(J1-PadC19)">
+      <node ref="J1" pin="C19" pinfunction="C19" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(J1-PadC20)">
+      <node ref="J1" pin="C20" pinfunction="C20" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(J1-PadC21)">
+      <node ref="J1" pin="C21" pinfunction="C21" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(J1-PadC24)">
+      <node ref="J1" pin="C24" pinfunction="C24" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(J1-PadC25)">
+      <node ref="J1" pin="C25" pinfunction="C25" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(J1-PadC26)">
+      <node ref="J1" pin="C26" pinfunction="C26" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(J1-PadC27)">
+      <node ref="J1" pin="C27" pinfunction="C27" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(J1-PadC28)">
+      <node ref="J1" pin="C28" pinfunction="C28" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(J1-PadC29)">
+      <node ref="J1" pin="C29" pinfunction="C29" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(J1-PadC30)">
+      <node ref="J1" pin="C30" pinfunction="C30" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(J7-Pad2)">
+      <node ref="J7" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
